@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ayush2002-de/to_do_list.git/static/css/main.de3806ae.css",
+    "main.js": "/ayush2002-de/to_do_list.git/static/js/main.710669e1.js",
+    "index.html": "/ayush2002-de/to_do_list.git/index.html",
+    "main.de3806ae.css.map": "/ayush2002-de/to_do_list.git/static/css/main.de3806ae.css.map",
+    "main.710669e1.js.map": "/ayush2002-de/to_do_list.git/static/js/main.710669e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de3806ae.css",
+    "static/js/main.710669e1.js"
+  ]
+}
